@@ -1,5 +1,5 @@
-# Registro de Progreso
-
+Nombre: 
+Fecha de Ingreso:
 
 | Lección     | En<br>Progreso | Logrado | Pulido | Aprobado | Puede <br>enseñar |
 | ----------- | -------------- | ------- | ------ | -------- | ----------------- |
@@ -10,7 +10,7 @@
 | Ejercicio 5 |                |         |        |          |                   |
 | Ejercicio 6 |                |         |        |          |                   |
 
-Esta tabla permite registrar el progreso del practicante en cada una de las distintas lecciones en nuestra Agrupación. Cada una de las casillas deberá ser rellenada con una X o con un Tick, ambos significando lo mismo.
+Esta tabla permite registrar el progreso del practicante en cada una de las distintas lecciones en nuestra Agrupación. Cada una de las casillas deberá ser rellenada con una X o con un Tic, ambos significando lo mismo.
 
 ## Etapas del desarrollo
 
@@ -29,8 +29,9 @@ Se considera Logrado si el ejercicio es distinguible y correctamente realizado, 
 Si el evaluado es capaz de explicar claramente el ejercicio, es considerado Aprobado y puede pasar a la siguiente lección.
 #### Pulido
 
-Se considera Pulido a que el ejercicio, además de estar correctamente realizado, existe una notoria fluidez y confianza al momento de realizarlo, sin presentar fallas ni flaqueos.
+Se considera Pulido a que el ejercicio, además de estar correctamente realizado, existe una notoria fluidez y confianza al momento de realizarlo, sin presentar fallas ni flaqueo.
 Ser calificado como Pulido implica ser Aprobado automáticamente del ejercicio evaluado.
+Se espera que un Practicante con experiencia obtenga una calificación de Pulido al ser re-evaluado en algún ejercicio, indicando que este a mejorado considerablemente en el tiempo.
 
 ## Indicativos
 
@@ -38,7 +39,12 @@ Describen las cualidades del Practicante respecto al ejercicio.
 
 #### Aprobado
 
-Un ejercicio Aprobado indica que el Practicante ejecuta de forma satisfactoria el ejercicio y puede progresar al siguiente ejercicio.
+Un ejercicio Aprobado indica que el Practicante ejecuta de forma satisfactoria el ejercicio y puede progresar al siguiente , teniendo el alivio de saber que ha progresado exitosamente y puede aplicarse a lo siguiente.
 
 *Revisar condiciones para cada Etapa del desarrollo*
 
+#### Puede enseñar
+
+El Practicante posee la capacidad de explicar, en variedad de complejidad, el ejercicio de forma clara a otra persona, permitiéndolo tomar el liderazgo una lección que enseñe el ejercicio correspondiente. 
+
+Destaca su capacidad para comunicarse y explayar sus ideas con seguridad y fluidez.
