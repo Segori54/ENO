@@ -5,7 +5,7 @@
   "hideFolderNote": true,
   "templatePath": "",
   "autoCreate": false,
-  "enableCollapsing": false,
+  "enableCollapsing": true,
   "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
@@ -44,11 +44,11 @@
   "useSubmenus": true,
   "syncMove": true,
   "frontMatterTitle": {
-    "enabled": false,
+    "enabled": true,
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "path",
   "supportedFileTypes": [
     "md",
     "canvas"
