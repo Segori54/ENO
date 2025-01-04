@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDFs/A.md",
+                "file": "Sobre el simulador/Nivel 2 - Sable de Luz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A"
+              "title": "Nivel 2 - Sable de Luz"
+            }
+          },
+          {
+            "id": "bebea0add2d456bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de Combate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de Combate"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,21 +194,31 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8bbe58c9b7a9040f",
+  "active": "bebea0add2d456bd",
   "lastOpenFiles": [
-    "PDFs/PDFs.md",
+    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
+    "Tipos de Combate.md",
+    "Sobre el simulador/Sobre el simulador.md",
+    "Sobre el simulador/Nivel 1 - Sable Casero.md",
+    "Proyectos/Protector de Espuma ENO.md",
+    "Untitled",
+    "Proyectos/Hoja flexible.md",
+    "Proyectos/Proyectos.md",
+    "README.md",
+    "Esgrima Nueva Orden.md",
     "PDFs/A.md",
+    "2025-01-04.md",
+    "Excalidraw/Drawing 2025-01-04 17.11.52.excalidraw.md",
+    "Excalidraw",
+    "PDFs/PDFs.md",
     "PDFs",
     "Sobre la Enseñanza/Plan Común/Untitled.md",
     "PDFs/Untitled/Untitled.md",
     "PDFs/Untitled",
     "PDFs",
-    "Sobre el simulador/Sobre el simulador.md",
     "Sobre la Enseñanza/Plan Común/Plan Común.md",
     "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
     "Sobre la Enseñanza/Plan Común",
-    "Esgrima Nueva Orden.md",
-    "README.md",
     "Sobre la Enseñanza/Formas/Forma IV.md",
     "Fotos y diagramas",
     "Sobre la Enseñanza/Formas/Forma III.md",
@@ -202,13 +226,8 @@
     "Sobre la Enseñanza/Formas/Forma I.md",
     "Sobre la Enseñanza/Formas/Formas.md",
     "Sobre la Enseñanza/Formas",
-    "Sobre el simulador/Nivel 2 -.md",
     "Sobre la Enseñanza",
-    "Sobre el simulador/Nivel 1 - Sable Casero.md",
-    "Proyectos/Proyectos.md",
-    "Proyectos/Sable flexible.md",
     "Sobre el simulador",
-    "Proyectos/Untitled 1.md",
-    "Proyectos"
+    "Proyectos/Untitled 1.md"
   ]
 }
