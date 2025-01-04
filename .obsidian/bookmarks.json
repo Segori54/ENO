@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1736017400980,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1736017430251,
+          "path": "Esgrima Nueva Orden.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1736017430251,
+          "items": [],
+          "title": "Fotos y diagramas"
+        },
+        {
+          "type": "group",
+          "ctime": 1736017430251,
+          "items": [],
+          "title": "Proyectos"
+        },
+        {
+          "type": "group",
+          "ctime": 1736017430251,
+          "items": [],
+          "title": "Sobre el simulador"
+        },
+        {
+          "type": "group",
+          "ctime": 1736017430251,
+          "items": [],
+          "title": "Sobre la Enseñanza"
+        },
+        {
+          "type": "group",
+          "ctime": 1736017430251,
+          "items": [],
+          "title": "Fotos y diagramas"
+        },
+        {
+          "type": "file",
+          "ctime": 1736017430251,
+          "path": "README.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
