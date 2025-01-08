@@ -11,30 +11,13 @@
             "id": "649ceb3d659c2026",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Derechos y Deberes"
-            }
-          },
-          {
-            "id": "3cb25661dbd5aa99",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Mati hola/no-abrir-cuidado.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "no-abrir-cuidado"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +78,68 @@
   "right": {
     "id": "95ad357e75744238",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "501adb3f9f6a9947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8646350cf378a444",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "eb3ecae5530e94e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "1d058388355c8018",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "be182ca9f033cd6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -113,46 +157,46 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3cb25661dbd5aa99",
+  "active": "649ceb3d659c2026",
   "lastOpenFiles": [
-    "Proyectos/Proyectos.md",
+    "Sobre la Enseñanza/Formas/Forma VII (Juyo o Vapad).md",
+    "Sobre la Enseñanza/Formas/Forma VI (Jar Kai).md",
+    "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
+    "Sobre la Enseñanza/Formas/Forma IV (Ataru).md",
+    "Sobre la Enseñanza/Formas/Forma III (Soresu).md",
+    "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
+    "Sobre la Enseñanza/Formas/Forma I (Shii-Cho).md",
+    "Sobre la Enseñanza/Formas/Forma IV.md",
+    "Sobre la Enseñanza/Formas/Forma III.md",
+    "Sobre la Enseñanza/Formas/Forma II.md",
+    "Sobre la Enseñanza/Formas/Forma I.md",
     "Mati hola/no-abrir-cuidado.jpg",
+    "Mati hola",
+    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
+    "Sobre la Enseñanza/Formas/Sin título.md",
+    "Sobre la Enseñanza/Formas/Formas.md",
+    "Sobre el simulador/Sobre el simulador.md",
+    "Proyectos/Proyectos.md",
+    "Tipos de Combate.md",
     "Mati hola/480052be8c04593c6826057f5e0a9936.jpg",
     "Mati hola/Sin título.md",
-    "Sobre la Enseñanza/Formas/Formas.md",
-    "Tipos de Combate.md",
-    "Mati hola",
     "olaaa.md",
-    "Sobre la Enseñanza/Formas/Forma II.md",
-    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
     "Sobre la Enseñanza/Plan Común/Plan Común.md",
-    "Sobre la Enseñanza/Formas/Forma I.md",
     "Fotos y diagramas/roworth-moulinets.png",
     "Fotos y diagramas/il_fullxfull.6470948568_l318.png",
     "PDFs/PDFs.md",
     "Proyectos/Protector de Espuma ENO.md",
-    "Proyectos/Hoja flexible.md",
-    "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
     "Fotos y diagramas/il_fullxfull.6470948568_l318.png.crdownload",
     "Fotos y diagramas/roworth-moulinets.png.crdownload",
     "PDFs/Musashi no Ken (武蔵の剣)_033944.pdf",
     "PDFs/Foam lightsaber_034017.pdf",
-    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
     "PDFs/Espada Basica - Daniel Cristi_033747.pdf",
     "PDFs/reglamento_deportivo_v1.3_033801.pdf",
     "PDFs/Meyer German Longsword 1 rev 9_033817.pdf",
     "PDFs/Meyer Dussack 1 rev 1_033916.pdf",
-    "Sobre el simulador/Sobre el simulador.md",
-    "Sobre el simulador/Nivel 1 - Sable Casero.md",
-    "Untitled",
-    "README.md",
-    "Esgrima Nueva Orden.md",
-    "PDFs/A.md"
+    "Untitled"
   ]
 }
