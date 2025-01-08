@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Formas.md",
+                "file": "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formas"
+              "title": "Derechos y Deberes"
+            }
+          },
+          {
+            "id": "3cb25661dbd5aa99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de Combate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de Combate"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -82,109 +97,63 @@
   "right": {
     "id": "95ad357e75744238",
     "type": "split",
-    "children": [
-      {
-        "id": "26eb7de82d0639bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7e6c9c2fa3c20451",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Sobre la Enseñanza/Formas/Formas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Formas"
-            }
-          },
-          {
-            "id": "0dc201396ebd5a25",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "48671114bfd1030d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Sobre la Enseñanza/Plan Común/Untitled.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "649ceb3d659c2026",
+  "active": "8bbe58c9b7a9040f",
   "lastOpenFiles": [
-    "Sobre la Enseñanza/Plan Común/Plan Común.md",
+    "Mati hola",
+    "olaaa.md",
+    "Tipos de Combate.md",
+    "Sobre la Enseñanza/Formas/Forma II.md",
+    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
+    "Sobre la Enseñanza/Plan Común/Plan Común.md",
+    "Sobre la Enseñanza/Formas/Forma I.md",
+    "Sobre la Enseñanza/Formas/Formas.md",
+    "Fotos y diagramas/roworth-moulinets.png",
+    "Fotos y diagramas/il_fullxfull.6470948568_l318.png",
+    "PDFs/PDFs.md",
+    "Proyectos/Protector de Espuma ENO.md",
+    "Proyectos/Hoja flexible.md",
+    "Proyectos/Proyectos.md",
     "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
-    "Fotos y diagramas/il_fullxfull.6470948568_l318.png",
     "Fotos y diagramas/il_fullxfull.6470948568_l318.png.crdownload",
-    "Fotos y diagramas/roworth-moulinets.png",
     "Fotos y diagramas/roworth-moulinets.png.crdownload",
     "PDFs/Musashi no Ken (武蔵の剣)_033944.pdf",
     "PDFs/Foam lightsaber_034017.pdf",
     "Sobre el simulador/Nivel 2 - Sable de Luz.md",
     "PDFs/Espada Basica - Daniel Cristi_033747.pdf",
-    "Tipos de Combate.md",
     "PDFs/reglamento_deportivo_v1.3_033801.pdf",
     "PDFs/Meyer German Longsword 1 rev 9_033817.pdf",
     "PDFs/Meyer Dussack 1 rev 1_033916.pdf",
     "Sobre el simulador/Sobre el simulador.md",
     "Sobre el simulador/Nivel 1 - Sable Casero.md",
-    "Proyectos/Protector de Espuma ENO.md",
     "Untitled",
-    "Proyectos/Hoja flexible.md",
-    "Proyectos/Proyectos.md",
     "README.md",
     "Esgrima Nueva Orden.md",
     "PDFs/A.md",
     "2025-01-04.md",
-    "Excalidraw/Drawing 2025-01-04 17.11.52.excalidraw.md",
-    "Excalidraw",
-    "PDFs/PDFs.md",
-    "PDFs/Untitled/Untitled.md",
-    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
-    "Sobre la Enseñanza/Formas/Forma IV.md",
-    "Sobre la Enseñanza/Formas/Forma III.md",
-    "Sobre la Enseñanza/Formas/Forma II.md"
+    "Excalidraw"
   ]
 }
