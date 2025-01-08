@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de Combate.md",
+                "file": "Proyectos/Proyectos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Combate"
+              "title": "Proyectos"
             }
           }
         ],
@@ -117,9 +117,14 @@
   },
   "active": "8bbe58c9b7a9040f",
   "lastOpenFiles": [
+    "Mati hola/no-abrir-cuidado.jpg",
+    "Mati hola/480052be8c04593c6826057f5e0a9936.jpg",
+    "Mati hola/Sin título.md",
+    "Proyectos/Proyectos.md",
+    "Sobre la Enseñanza/Formas/Formas.md",
+    "Tipos de Combate.md",
     "Mati hola",
     "olaaa.md",
-    "Tipos de Combate.md",
     "Sobre la Enseñanza/Formas/Forma II.md",
     "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
@@ -127,13 +132,11 @@
     "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
     "Sobre la Enseñanza/Plan Común/Plan Común.md",
     "Sobre la Enseñanza/Formas/Forma I.md",
-    "Sobre la Enseñanza/Formas/Formas.md",
     "Fotos y diagramas/roworth-moulinets.png",
     "Fotos y diagramas/il_fullxfull.6470948568_l318.png",
     "PDFs/PDFs.md",
     "Proyectos/Protector de Espuma ENO.md",
     "Proyectos/Hoja flexible.md",
-    "Proyectos/Proyectos.md",
     "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
@@ -152,8 +155,6 @@
     "Untitled",
     "README.md",
     "Esgrima Nueva Orden.md",
-    "PDFs/A.md",
-    "2025-01-04.md",
-    "Excalidraw"
+    "PDFs/A.md"
   ]
 }
