@@ -1,3 +1,3 @@
-generar caracter
-perder el miedo
-divertirse
+- Generar Carácter
+- Perder el miedo
+- Divertirse
