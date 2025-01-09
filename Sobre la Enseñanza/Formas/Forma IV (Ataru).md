@@ -8,9 +8,3 @@ Dussak Joachim Meyer Art of Combat
 ![Alt text|350x500][QuiGonPortrait-SWE.png]
 ### Descripción
 La cuarta forma de ENO es el  Ataru, una vez superado la [[Forma II (Makashi)]] se avanza hacia el Ataru, 
-
-#### Medidas del sable
-
-- Tamaño Empuñadura 25 cm aproximadamente
-- Tamaño Hoja 60 cm Aproximadamente
-- Tamaño total 85 cm

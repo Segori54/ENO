@@ -1,5 +1,4 @@
 ## Inspiraciones para la forma
-
 Tesis "Manual Ilustrado de Kendo" - Cesar Ramiro Samaniego
 
 #### Maestro Notable en Star Wars
@@ -9,11 +8,4 @@ Tesis "Manual Ilustrado de Kendo" - Cesar Ramiro Samaniego
 ![![Alt text|350x500](kit-fisto.png)
 
 ### Descripción
-
 La primera forma de ENO es el Shii-Cho, inspirada en el kendo japones, es una de las dos formas iniciales de nuestra agrupación, esta se centra en el manejo del sable con 2 manos, su gran versatilidad la hace clave para principiantes y novatos.
-
-#### Medidas del sable
-
-- Tamaño Empuñadura 30 cm aproximadamente
-- Tamaño Hoja 70 cm Aproximadamente
-- Tamaño total 100 cm o 1 metro

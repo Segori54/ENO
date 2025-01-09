@@ -10,6 +10,7 @@ Sidesword Rappier de Joachim Meyer. Art of Combat
 
 ### Descripción
 La segunda forma de ENO es el Makashi, basado en las enseñanzas de Hutton y Meyer, esta es una de las formas iniciales para quienes ya terminaron el plan común.
+<<<<<<< HEAD
 El Makashi se centra en el uso de una mano para el sable, su velocidad la hace clave para quienes buscan terminar encuentros de forma rápida.
 
 #### Medidas del sable
@@ -17,3 +18,6 @@ El Makashi se centra en el uso de una mano para el sable, su velocidad la hace c
 - Tamaño Empuñadura 25 cm aproximadamente
 - Tamaño Hoja 60 cm Aproximadamente
 - Tamaño total 85 cm
+=======
+El Makashi se centra en el uso de una mano para el sable, su velocidad la hace clave para quienes buscan terminar encuentros de forma rápida.
+>>>>>>> ffaf9cc9d6ed430f3b954db53642194dfd79b473
