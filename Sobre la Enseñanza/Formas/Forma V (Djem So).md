@@ -7,6 +7,9 @@ Dussack (1 Mano)
 <span style="background:#40a9ff">Anakin Skywalker</span>
 
 ![Alt text|375x500][Anakin_Skywalker_RotS.png]
+
+## Requisitos
+Haber avanzado significativamente en la [[Forma III (Soresu)]] o en la [[Forma IV (Ataru)]] decidiendo usar esta disciplina, si uno lo desea puede quedarse en con su forma anterior.
 ### Descripción
 La quinta forma de ENO es el Djem So, 
 

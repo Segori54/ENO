@@ -8,9 +8,10 @@ Sidesword Rappier de Joachim Meyer. Art of Combat
 
 ![![Alt text|350x500](dooku.jpg)
 
+## Requisitos
+Haber terminado [[Plan Común]], una vez terminado se pasara al [[Nivel 2 - Sable de Luz]], pudiendo optar por la [[Forma I (Shii-Cho)]] o [[Forma II (Makashi)]].
 ### Descripción
-La segunda forma de ENO es el Makashi, basado en las enseñanzas de Hutton y Meyer, esta es una de las formas iniciales para quienes ya terminaron el plan común.
-<<<<<<< HEAD
+La segunda forma de ENO es el Makashi, basado en las enseñanzas de Hutton y Meyer.
 El Makashi se centra en el uso de una mano para el sable, su velocidad la hace clave para quienes buscan terminar encuentros de forma rápida.
 
 #### Medidas del sable
