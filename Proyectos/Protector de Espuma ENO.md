@@ -19,4 +19,4 @@ Adhesivo Agorex transparente:  Adherir la espuma a la hoja del sable además de 
 
 - Piso flotante
 - Espuma polietileno
-- Ligas
+- Duct Tape Transparente 
