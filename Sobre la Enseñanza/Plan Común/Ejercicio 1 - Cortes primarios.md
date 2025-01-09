@@ -1,19 +1,17 @@
 
-
-
 # Primera secuencia de corte
 
 Tratar como 1234
 
-1: corte sup derecho
-2: corte sup izquierdo
-3: corte inf derecho
-4: corte inf izquierdo
+1: Corte Superior Derecho
+2: Corte Superior Izquierdo
+3: Corte Inferior Derecho
+4: Corte Inferior Izquierdo
 
 
-importante, mantener altitud en cortes inferiores
+<font color="#ffff00">(Importante, mantener altitud en cortes inferiores)</font>
 
-Practicar desplazando para atras y adelante
+Practicar dando pasos para atrás y hacia adelante.
 
 ![[roworth-moulinets.png]]
 

@@ -10,7 +10,7 @@ Para este contexto, el simulador deberá de contar con algún revestimiento de e
 
 El combate avanzado se define como el enfrentamiento con un mayor grado de intensidad, con intensión de jugar, poner a prueba la habilidad y mejorar la actitud en combate.
 
-Para combates avanzados se require el uso de careta y guantes.
+Para combates avanzados se requiere el uso de careta y guantes.
 ### Combate Competitivo o Ranked
 
 El combate competitivo se define como el enfrentamiento con mayor grado de intensidad y complejidad, con intensión de superar en  habilidad al contrincante y vencerlo, poniendo en uso tanto el conocimiento como el entrenamiento previo.

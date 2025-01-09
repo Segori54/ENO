@@ -1,4 +1,4 @@
-Corresponde a un sable de luz rgb de cualquier marca con una hoja de 1 pulgada de diametro y 3mm de espesor. 
+Corresponde a un sable de luz RGB de cualquier marca con una hoja de 1 pulgada de diámetro y 3mm de espesor. 
 
 Se recomienda la adquisición de un sable de luz una vez avanzado significativamente el Plan Común y tener en mente la Forma de combate a entrenar, ya que el largo de la hoja dependerá del tipo de Forma que se estudie.
 

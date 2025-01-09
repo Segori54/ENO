@@ -1,4 +1,4 @@
-Tubo PPR de 1 pulgada de diametro y 1 metro de largo.
+Tubo PPR de 1 pulgada de diámetro y 1 metro de largo.
 
 Para combates se utilizará el mismo tubo de PPR pero revestido con una espuma.
 
