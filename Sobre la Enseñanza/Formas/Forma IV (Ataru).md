@@ -2,7 +2,9 @@
 Dussak Joachim Meyer Art of Combat
 
 #### Maestro Notable en Star Wars
-Qui-Gon Jinn
 
+<span style="background:rgba(0, 235, 0, 0.2)"><span style="background:rgba(3, 135, 102, 0.2)"><span style="background:rgba(0, 235, 0, 0.2)">Qui-Gon Jinn</span></span></span>
+
+![Alt text|350x500][QuiGonPortrait-SWE.png]
 ### Descripción
-La cuarta forma de ENO es el  Ataru,
+La cuarta forma de ENO es el  Ataru, una vez superado la [[Forma II (Makashi)]] se avanza hacia el Ataru, 
