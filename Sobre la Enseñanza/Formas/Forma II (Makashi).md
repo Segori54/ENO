@@ -3,7 +3,11 @@ Sable Militar Británico de Alfred Hutton. Cold Steel
 Sidesword Rappier de Joachim Meyer. Art of Combat
 
 #### Maestros Notable en Star Wars
-Conde Dooku
+
+<span style="background:#ff4d4f"><font color="#000000">Conde Dooku </font></span>
+
+![![Alt text|350x500](dooku.jpg)
 
 ### Descripción
-La segunda forma de ENO es el Makashi,
+La segunda forma de ENO es el Makashi, basado en las enseñanzas de Hutton y Meyer, esta es una de las formas iniciales para quienes ya terminaron el plan común.
+El Makashi se centra en el uso de una mano para el sable, su velocidad la hace clave para quienes buscan terminar encuentros de forma rápida.

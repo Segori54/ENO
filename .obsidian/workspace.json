@@ -11,10 +11,14 @@
             "id": "649ceb3d659c2026",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sobre la Enseñanza/Formas/Forma IV (Ataru).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Forma IV (Ataru)"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Forma V (Djem So)"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Forma V (Djem So)"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Forma V (Djem So)"
             }
           }
         ]
@@ -159,36 +167,43 @@
   },
   "active": "649ceb3d659c2026",
   "lastOpenFiles": [
+    "Fotos y diagramas/kit-fisto.png",
+    "Fotos y diagramas/dooku.jpg",
+    "Fotos y diagramas/diagrama-hutton.png",
+    "Fotos y diagramas/calkestisdualwield.png",
+    "Fotos y diagramas/QuiGonPortrait-SWE.png",
+    "Fotos y diagramas/Obi-wan_kenobi.png",
+    "Fotos y diagramas/Darth_Maul-557x855.png",
+    "Fotos y diagramas/Anakin_Skywalker_RotS.png",
+    "Mati hola/no-abrir-cuidado.jpg",
+    "Mati hola",
+    "Fotos y diagramas/il_fullxfull.6470948568_l318.png",
+    "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
+    "Sobre la Enseñanza/Formas/Forma I (Shii-Cho).md",
+    "Proyectos/Proyectos.md",
+    "dooku.jpg",
+    "Sobre el simulador/Sobre el simulador.md",
     "Sobre la Enseñanza/Formas/Forma VII (Juyo o Vapad).md",
     "Sobre la Enseñanza/Formas/Forma VI (Jar Kai).md",
     "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
     "Sobre la Enseñanza/Formas/Forma IV (Ataru).md",
     "Sobre la Enseñanza/Formas/Forma III (Soresu).md",
-    "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
-    "Sobre la Enseñanza/Formas/Forma I (Shii-Cho).md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
+    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
+    "![Alt text.md",
+    "Esgrima Nueva Orden.md",
+    "Proyectos/Protector de Espuma ENO.md",
     "Sobre la Enseñanza/Formas/Forma IV.md",
     "Sobre la Enseñanza/Formas/Forma III.md",
     "Sobre la Enseñanza/Formas/Forma II.md",
     "Sobre la Enseñanza/Formas/Forma I.md",
-    "Mati hola/no-abrir-cuidado.jpg",
-    "Mati hola",
-    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
     "Sobre la Enseñanza/Formas/Sin título.md",
     "Sobre la Enseñanza/Formas/Formas.md",
-    "Sobre el simulador/Sobre el simulador.md",
-    "Proyectos/Proyectos.md",
     "Tipos de Combate.md",
-    "Mati hola/480052be8c04593c6826057f5e0a9936.jpg",
     "Mati hola/Sin título.md",
-    "olaaa.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
-    "Sobre la Enseñanza/Plan Común/Plan Común.md",
-    "Fotos y diagramas/roworth-moulinets.png",
-    "Fotos y diagramas/il_fullxfull.6470948568_l318.png",
-    "PDFs/PDFs.md",
-    "Proyectos/Protector de Espuma ENO.md",
     "Fotos y diagramas/il_fullxfull.6470948568_l318.png.crdownload",
     "Fotos y diagramas/roworth-moulinets.png.crdownload",
     "PDFs/Musashi no Ken (武蔵の剣)_033944.pdf",
