@@ -16,5 +16,5 @@ El Makashi se centra en el uso de una mano para el sable, su velocidad la hace c
 #### Medidas del sable
 
 - Tamaño Empuñadura 25 cm aproximadamente
-- Tamaño Hoja 60 cm Aproximadamente
+- Tamaño Hoja 60 cm aproximadamente
 - Tamaño total 85 cm

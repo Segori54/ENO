@@ -8,3 +8,7 @@ Dussak Joachim Meyer Art of Combat
 ![Alt text|350x500][QuiGonPortrait-SWE.png]
 ### Descripción
 La cuarta forma de ENO es el  Ataru, una vez superado la [[Forma II (Makashi)]] se avanza hacia el Ataru, 
+
+- Tamaño Empuñadura 25 cm aproximadamente
+- Tamaño Hoja 60 cm aproximadamente
+- Tamaño total 85 cm
