@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "085568b6a3af888e",
+    "id": "6f3c51ffc7c5c8e4",
     "type": "split",
     "children": [
       {
-        "id": "4bfa84fc64e19095",
+        "id": "0b22ff5ec1ba50a1",
         "type": "tabs",
         "children": [
           {
-            "id": "c03b34489ff82a04",
+            "id": "ba4847cdb0485842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma VI (Jar Kai).md",
+                "file": "chechin-notas/prueba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forma VI (Jar Kai)"
+              "title": "prueba"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "10ed88dfc3f68df0",
+    "id": "5d723d4c17308139",
     "type": "split",
     "children": [
       {
-        "id": "16098f0606a2d642",
+        "id": "03c68e89bb81630a",
         "type": "tabs",
         "children": [
           {
-            "id": "8bbe58c9b7a9040f",
+            "id": "629a13633e88073d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,11 +43,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "3f89d16ffec00fd1",
+            "id": "a338cb007c725c13",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,17 +60,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "942767e3d9d3f9f7",
+            "id": "8103fa43c543e9da",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -80,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "95ad357e75744238",
+    "id": "b7ecff121b336413",
     "type": "split",
     "children": [
       {
-        "id": "501adb3f9f6a9947",
+        "id": "43833c581b88b6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "8646350cf378a444",
+            "id": "0a58cacb7d66509f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
+                "file": "Proyectos/Hoja flexible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Forma V (Djem So)"
+              "title": "Enlaces entrantes de Hoja flexible"
             }
           },
           {
-            "id": "eb3ecae5530e94e2",
+            "id": "5a02b3e16006feb3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
+                "file": "Proyectos/Hoja flexible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Forma V (Djem So)"
+              "title": "Enlaces salientes de Hoja flexible"
             }
           },
           {
-            "id": "1d058388355c8018",
+            "id": "e0c69747213a500a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,15 +134,15 @@
             }
           },
           {
-            "id": "be182ca9f033cd6f",
+            "id": "ee92b9eb81afab7f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md"
+                "file": "Proyectos/Hoja flexible.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Forma V (Djem So)"
+              "title": "Esquema de Hoja flexible"
             }
           }
         ]
@@ -154,20 +154,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false
     }
   },
-<<<<<<< HEAD
-  "active": "629a13633e88073d",
+  "active": "ba4847cdb0485842",
   "lastOpenFiles": [
+    "Sobre la Enseñanza/Formas/Forma VI (Jar Kai).md",
+    "chechin-notas/prueba.md",
     "chechin-notas",
     "Sobre la Enseñanza/Formas/Forma IV (Ataru).md",
     "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
@@ -178,7 +179,6 @@
     "PDFs/A.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
     "Sobre la Enseñanza/Formas/Forma VII (Juyo o Vapad).md",
-    "Sobre la Enseñanza/Formas/Forma VI (Jar Kai).md",
     "Sobre el simulador/Nivel 2 - Sable de Luz.md",
     "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
     "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
@@ -197,55 +197,7 @@
     "Sobre el simulador/Sobre el simulador.md",
     "PDFs/Musashi no Ken (武蔵の剣)_033944.pdf",
     "Fotos y diagramas/Anakin_Skywalker_RotS.png",
-=======
-  "active": "c03b34489ff82a04",
-  "lastOpenFiles": [
-    "Proyectos/Hoja flexible.md",
-    "Proyectos/Proyectos.md",
-    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
-    "Sobre el simulador/Nivel 1 - Sable Casero.md",
-    "Sobre el simulador/Sobre el simulador.md",
-    "Esgrima Nueva Orden.md",
-    "README.md",
-    "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
-    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
-    "Sobre la Enseñanza/Plan Común/Plan Común.md",
-    "Sobre la Enseñanza/Formas/Forma VII (Juyo o Vapad).md",
-    "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
-    "Sobre la Enseñanza/Formas/Forma VI (Jar Kai).md",
-    "Sobre la Enseñanza/Formas/Forma IV (Ataru).md",
-    "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
-    "Sobre la Enseñanza/Formas/Forma III (Soresu).md",
-    "Sobre la Enseñanza/Formas/Forma I (Shii-Cho).md",
-    "Sobre la Enseñanza/Formas/Formas.md",
->>>>>>> 06224190eceeb8c47db06f0ae1a399e7960b5009
     "Mati hola/no-abrir-cuidado.jpg",
-    "Mati hola",
-    "Fotos y diagramas/kit-fisto.png",
-    "Fotos y diagramas/dooku.jpg",
-    "Fotos y diagramas/diagrama-hutton.png",
-    "Fotos y diagramas/calkestisdualwield.png",
-    "Fotos y diagramas/QuiGonPortrait-SWE.png",
-    "Fotos y diagramas/Obi-wan_kenobi.png",
-    "Fotos y diagramas/Darth_Maul-557x855.png",
-    "Fotos y diagramas/Anakin_Skywalker_RotS.png",
-    "Fotos y diagramas/il_fullxfull.6470948568_l318.png",
-    "![Alt text.md",
-    "Proyectos/Protector de Espuma ENO.md",
-    "Fotos y diagramas/il_fullxfull.6470948568_l318.png.crdownload",
-    "Fotos y diagramas/roworth-moulinets.png.crdownload",
-    "PDFs/Musashi no Ken (武蔵の剣)_033944.pdf",
-    "PDFs/Foam lightsaber_034017.pdf",
-    "PDFs/Espada Basica - Daniel Cristi_033747.pdf",
-    "PDFs/reglamento_deportivo_v1.3_033801.pdf",
-    "PDFs/Meyer German Longsword 1 rev 9_033817.pdf",
-    "PDFs/Meyer Dussack 1 rev 1_033916.pdf",
-    "Untitled"
+    "Mati hola"
   ]
 }
