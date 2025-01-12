@@ -31,7 +31,39 @@
         {
           "type": "group",
           "ctime": 1736017430251,
-          "items": [],
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1736644735226,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1736644735227,
+                  "path": "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1736644735226,
+                  "items": [],
+                  "title": "Forma III (Soresu)"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1736644735226,
+                  "items": [],
+                  "title": "Forma V (Djem So)"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1736644735227,
+                  "path": "Sobre la Enseñanza/Formas/Formas.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Formas"
+            }
+          ],
           "title": "Sobre la Enseñanza"
         },
         {

@@ -2,7 +2,7 @@
 Dos Sables (2 Espadas)
 Domingo Luis Godinho
 Niten Ichi Ryu
-Rappier y daga
+
 
 #### Maestro Notable en Star Wars
 

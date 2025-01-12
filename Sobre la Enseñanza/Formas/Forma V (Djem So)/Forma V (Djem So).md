@@ -1,6 +1,5 @@
 ## Inspiraciones
 Kunt des fechten. Lagschwer. Joachim Meyer Art Of Combat (2 Manos)
-Dussack (1 Mano)
 
 #### Maestro Notable en Star Wars
 
