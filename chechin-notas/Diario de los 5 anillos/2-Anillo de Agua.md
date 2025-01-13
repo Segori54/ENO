@@ -80,5 +80,5 @@
 - Conocer el camino del sable largo significa que, aunque estés sosteniendo el sable con dos dedos, sabrás como blandirlo fácilmente.
 - Cuando intentas blandir rápidamente el sable largo te desvías del camino del mismo y, por tanto, es difícil de manejar.
 - El asunto consiste en blandir el sable largo tranquilamente, de forma que sea fácil de hacer.
-- Cuando golpeas hacia abajo con el sable largo, retiralo de una forma comoda. Cuando lo blandes a los costados vuelvelo a su posicion inicial de la forma convencional.
+- Cuando golpeas hacia abajo con el sable largo, retiralo de una forma cómoda. Cuando lo blandes a los costados vuélvelo a su posición inicial de la forma convencional.
 - Estirar el codo lo mas posible y blandir con la fuerza es el camino del sable largo.
