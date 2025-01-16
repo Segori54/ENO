@@ -6,3 +6,5 @@ Se considera como Simulador el implemento principal con el cual se entrena que s
 
 En nuestra agrupación se recomendará seguir una evolución progresiva el Simulador, que tenga en consideración  las capacidades adquisitivas de los Miembros, con la finalidad de estandarizar qué implementos serán permitidos dentro de la Agrupación.
 
+
+![[bateria 1.jpeg]]
