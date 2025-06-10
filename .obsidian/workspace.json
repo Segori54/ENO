@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "776e838d41501de6",
+        "id": "dcea0365a6abe72a",
         "type": "tabs",
         "children": [
           {
-            "id": "e497663259e16bd0",
+            "id": "5d1c80c70931ee6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
+                "file": "Tutorial instalación/Tutorial instalación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forma II (Makashi)"
+              "title": "Tutorial instalación"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -161,57 +162,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e497663259e16bd0",
+  "active": "8bbe58c9b7a9040f",
   "lastOpenFiles": [
-    "Sobre la Enseñanza/Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
-    "Sobre la Enseñanza/Formas/Forma V (Djem So)/Forma V (Djem So).md",
-    "Sobre la Enseñanza/Formas/Forma III (Soresu)/Forma VI (Jar Kai).md",
-    "Sobre la Enseñanza/Formas/Forma III (Soresu)/Forma III (Soresu).md",
-    "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
-    "Sobre la Enseñanza/Formas/Formas.md",
-    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
-    "Sobre la Enseñanza/Plan Común/Plan Común.md",
-    "PDFs/PDFs.md",
+    "Tutorial instalación/Tutorial instalación.pdf",
+    "Tutorial instalación/Fotos/apagar2.png",
+    "Tutorial instalación/Fotos/apagar1.png",
+    "Tutorial instalación/Fotos/options.png",
+    "Tutorial isntalación/Fotos/git.png",
+    "Tutorial instalación/Fotos/config.png",
+    "Tutorial instalación/Fotos/ENO Vault.png",
+    "Sobre la Enseñanza/Tipos de Combate.md",
     "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
-    "Sobre el simulador/Sobre el simulador.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
+    "Tutorial instalación/Tutorial instalación.md",
     "Esgrima Nueva Orden.md",
+    "Sobre la Enseñanza/Para los Instructores.md",
+    "Tutorial instalación/Fotos/Obsidian page.png",
+    "Tutorial instalación/Fotos/carpeta.png",
+    "Tutorial instalación/Fotos/Vaults.png",
+    "Tutorial instalación/Fotos/Extraer.png",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 0 - Guardia Inicial.md",
+    "Sobre la Enseñanza/Plan Común/Plan Común.md",
+    "Sobre el simulador/Sobre el simulador.md",
     "Proyectos/Proyectos.md",
-    "Proyectos/Protector de Espuma ENO.md",
+    "Tutorial instalación/Fotos",
+    "Tutorial instalación",
+    "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
+    "Sobre la Enseñanza/Formas/Forma III (Soresu)/Forma III (Soresu).md",
+    "Sobre la Enseñanza/Formas/Forma V (Djem So)/Forma V (Djem So).md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
+    "Sobre la Enseñanza/Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
+    "Sobre la Enseñanza/Formas/Formas.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
+    "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
+    "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
+    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
+    "Sobre el simulador/Nivel 1 - Sable Casero.md",
     "Proyectos/Hoja flexible.md",
+    "Proyectos/Protector de Espuma ENO.md",
     "PDFs/reglamento_deportivo_v1.3_033801.pdf",
-    "Fotos y diagramas/bateria 1.jpeg",
-    "chechin-notas/Diario de los 5 anillos/5-Anillo de Vacío.md",
-    "chechin-notas/Diario de los 5 anillos/4-Anillo de Viento.md",
-    "chechin-notas/Diario de los 5 anillos/3-Anillo de Fuego.md",
-    "chechin-notas/Diario de los 5 anillos/2-Anillo de Agua.md",
-    "chechin-notas/Diario de los 5 anillos/1-Anillo de Tierra.md",
     "chechin-notas/Diario de los 5 anillos",
     "chechin-notas",
-    "Fotos y diagramas/bateria.jpeg",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
     "Sobre la Enseñanza/Formas/Forma V (Djem So)",
     "Sobre la Enseñanza/Formas/Forma III (Soresu)",
-    "Sobre la Enseñanza/Formas/Forma IV (Ataru).md",
-    "Sobre la Enseñanza/Formas/Forma I (Shii-Cho).md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
-    "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
-    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
-    "Mati hola/no-abrir-cuidado.jpg",
     "Mati hola",
-    "Fotos y diagramas/kit-fisto.png",
-    "Fotos y diagramas/dooku.jpg",
-    "Fotos y diagramas/diagrama-hutton.png",
-    "Fotos y diagramas/calkestisdualwield.png",
-    "Fotos y diagramas/QuiGonPortrait-SWE.png",
-    "Fotos y diagramas/Obi-wan_kenobi.png",
-    "Fotos y diagramas/Darth_Maul-557x855.png",
     "Fotos y diagramas/il_fullxfull.6470948568_l318.png.crdownload",
-    "Fotos y diagramas/roworth-moulinets.png.crdownload",
-    "PDFs/Musashi no Ken (武蔵の剣)_033944.pdf",
-    "PDFs/Foam lightsaber_034017.pdf"
+    "Fotos y diagramas/roworth-moulinets.png.crdownload"
   ]
 }

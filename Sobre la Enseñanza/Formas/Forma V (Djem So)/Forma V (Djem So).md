@@ -19,8 +19,14 @@ La quinta forma de ENO es el Djem So,
 - Tamaño Hoja 70 cm aproximadamente
 - Tamaño total 100 cm o 1 metro
 
-<font color="#ffff00">(A una mano)</font>
+<font color="#ffff00">(A una mano)</font> (MODIFICAR djem so UNA MANO)
 - Tamaño Empuñadura 25 cm aproximadamente
 - Tamaño Hoja 60 cm aproximadamente
 - Tamaño total 85 cm
 
+
+# Técnicas del Djem So: Los Meisterhau
+
+
+
+## Primera técnica: Golpe Fuerte

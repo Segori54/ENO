@@ -1,4 +1,7 @@
 
+
+![[roworth-moulinets.png]]
+
 # Primera secuencia de corte
 
 Tratar como 1234
@@ -12,6 +15,3 @@ Tratar como 1234
 <font color="#ffff00">(Importante, mantener altitud en cortes inferiores)</font>
 
 Practicar dando pasos para atrás y hacia adelante.
-
-![[roworth-moulinets.png]]
-

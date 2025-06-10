@@ -1,14 +1,15 @@
 Nombre: 
 Fecha de Ingreso:
 
-| Lección     | En<br>Progreso | Logrado | Pulido | Aprobado | Puede <br>enseñar |
-| ----------- | -------------- | ------- | ------ | -------- | ----------------- |
-| Ejercicio 1 |                |         |        |          |                   |
-| Ejercicio 2 |                |         |        |          |                   |
-| Ejercicio 3 |                |         |        |          |                   |
-| Ejercicio 4 |                |         |        |          |                   |
-| Ejercicio 5 |                |         |        |          |                   |
-| Ejercicio 6 |                |         |        |          |                   |
+| Lección     | En<br>Progreso | Logrado | Pulido |     | Aprobado | Puede <br>enseñar |
+| ----------- | -------------- | ------- | ------ | --- | -------- | ----------------- |
+| Ejercicio 0 |                |         |        |     |          |                   |
+| Ejercicio 1 |                |         |        |     |          |                   |
+| Ejercicio 2 |                |         |        |     |          |                   |
+| Ejercicio 3 |                |         |        |     |          |                   |
+| Ejercicio 4 |                |         |        |     |          |                   |
+| Ejercicio 5 |                |         |        |     |          |                   |
+| Ejercicio 6 |                |         |        |     |          |                   |
 
 Esta tabla permite registrar el progreso del practicante en cada una de las distintas lecciones en nuestra Agrupación. Cada una de las casillas deberá ser rellenada con una X o con un Tic, ambos significando lo mismo.
 

@@ -1,15 +1,15 @@
-### Ox (Guardia del Buey)
+### Guardia Frontal Alta
+Ox (Guardia del Buey)
 
-Guardia alta
 
-### Phlug (Guardia del Arado)
 
-Guardia media
+### Guardia media 
+Phlug (Guardia del Arado)
 
-### Alber (Guardia del Tonto)
+### Guardia baja
+Alber (Guardia del Tonto)
 
-Guardia baja
-### Vom Tag / Tag (Guardia del Cielo)
+### Guardia alta
+Vom Tag Alto Centrado (Guardia del Cielo)
 
-Guardia alta
 

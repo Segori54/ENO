@@ -33,6 +33,12 @@
           "ctime": 1736017430251,
           "items": [
             {
+              "type": "file",
+              "ctime": 1749567935441,
+              "path": "Sobre la Enseñanza/Para los Instructores.md",
+              "subpath": "#^-"
+            },
+            {
               "type": "group",
               "ctime": 1736644735226,
               "items": [
@@ -62,6 +68,85 @@
                 }
               ],
               "title": "Formas"
+            },
+            {
+              "type": "group",
+              "ctime": 1749567907263,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1749567907263,
+                  "path": "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 0 - Guardia Inicial.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Plan Común.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Plan Común"
+            },
+            {
+              "type": "file",
+              "ctime": 1749567935441,
+              "path": "Sobre la Enseñanza/Para los Instructores.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1749567935441,
+              "path": "Sobre la Enseñanza/Tipos de Combate.md",
+              "subpath": "#^-"
             }
           ],
           "title": "Sobre la Enseñanza"
