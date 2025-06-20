@@ -12,21 +12,9 @@
         },
         {
           "type": "group",
-          "ctime": 1736017430251,
+          "ctime": 1750452740864,
           "items": [],
-          "title": "Fotos y diagramas"
-        },
-        {
-          "type": "group",
-          "ctime": 1736017430251,
-          "items": [],
-          "title": "Proyectos"
-        },
-        {
-          "type": "group",
-          "ctime": 1736017430251,
-          "items": [],
-          "title": "Sobre el simulador"
+          "title": "Roles"
         },
         {
           "type": "group",
@@ -45,7 +33,7 @@
                 {
                   "type": "file",
                   "ctime": 1736644735227,
-                  "path": "Sobre la Enseñanza/Formas/Forma II (Makashi).md",
+                  "path": "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md",
                   "subpath": "#^-"
                 },
                 {
@@ -63,11 +51,11 @@
                 {
                   "type": "file",
                   "ctime": 1736644735227,
-                  "path": "Sobre la Enseñanza/Formas/Formas.md",
+                  "path": "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
                   "subpath": "#^-"
                 }
               ],
-              "title": "Formas"
+              "title": "Cursos de Formas"
             },
             {
               "type": "group",
@@ -76,65 +64,65 @@
                 {
                   "type": "file",
                   "ctime": 1749567907263,
-                  "path": "Sobre la Enseñanza/Plan Común/Derechos y Deberes.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Derechos y Deberes.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 0 - Guardia Inicial.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Ejercicio 0 - Guardia Inicial.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 1 - Cortes primarios.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Ejercicio 1 - Cortes primarios.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 2 - Desplazamiento.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Ejercicio 2 - Desplazamiento.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 3 - Spins.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Ejercicio 3 - Spins.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 4 - Nociones de bloqueo.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Ejercicio 4 - Nociones de bloqueo.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 5 - Guardias y estrategia.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Ejercicio 5 - Guardias y estrategia.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Ejercicio 6 - Introducción al combate.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Ejercicio 6 - Introducción al combate.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Plan Común.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Curso de Iniciación.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "file",
                   "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Plan Común/Registro de Progreso.md",
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
                   "subpath": "#^-"
                 }
               ],
-              "title": "Plan Común"
+              "title": "Curso de Iniciación"
             },
             {
               "type": "file",
@@ -155,7 +143,43 @@
           "type": "group",
           "ctime": 1736017430251,
           "items": [],
+          "title": "Sobre el simulador"
+        },
+        {
+          "type": "group",
+          "ctime": 1736017430251,
+          "items": [],
+          "title": "Proyectos"
+        },
+        {
+          "type": "group",
+          "ctime": 1750452740864,
+          "items": [],
+          "title": "PDFs"
+        },
+        {
+          "type": "group",
+          "ctime": 1736017430251,
+          "items": [],
           "title": "Fotos y diagramas"
+        },
+        {
+          "type": "group",
+          "ctime": 1750452740864,
+          "items": [],
+          "title": "Tutorial instalación"
+        },
+        {
+          "type": "group",
+          "ctime": 1750452740864,
+          "items": [],
+          "title": "PDFs"
+        },
+        {
+          "type": "group",
+          "ctime": 1750452986956,
+          "items": [],
+          "title": "Logo"
         },
         {
           "type": "file",
