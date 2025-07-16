@@ -13,6 +13,18 @@
         "pdfs": true,
         "otherTypes": false
       }
+    },
+    {
+      "path": "Sobre la Enseñanza",
+      "guid": "02bd3b1f-61fa-42bc-b0f4-1b6415013d0a",
+      "relay": "38d9d0f8-8397-40ae-a71b-64a92e90a8cb",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
     }
   ],
   "enableUpdateYDocFromDiskBuffer": false,

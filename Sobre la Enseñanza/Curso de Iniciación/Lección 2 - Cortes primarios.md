@@ -1,8 +1,17 @@
 
+## Numeración
 
-![[roworth-moulinets.png]]
+![[cortes_primarios.png]]
 
-# Primera secuencia de corte
+
+## Ejercicios de práctica - Cuadrado de Meyer
+
+
+![[cuadrado_meyer.png]]
+
+
+###  # Primera secuencia de coe
+ te
 
 Tratar como 1234
 

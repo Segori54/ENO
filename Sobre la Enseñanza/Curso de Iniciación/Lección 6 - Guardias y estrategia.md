@@ -2,7 +2,6 @@
 Ox (Guardia del Buey)
 
 
-
 ### Guardia media 
 Phlug (Guardia del Arado)
 
