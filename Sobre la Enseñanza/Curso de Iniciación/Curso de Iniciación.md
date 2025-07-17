@@ -1,13 +1,13 @@
 Los conocimientos que deberán ser comprendidos por todos los miembros de la agrupación.
 
-- [[Ejercicio 0 - Guardia inicial]]
-- [[Ejercicio 1 - Cortes primarios]]
-- [[Ejercicio 2 - Desplazamiento]]
-- [[Ejercicio 3 - Spins]]
-- [[Ejercicio 4 - Nociones de bloqueo]]
-- [[Ejercicio 5 - Guardias y estrategia]]
-- [[Ejercicio 6 - Introducción al combate]]
-
+- [[Lección 1 - Guardia inicial]]
+- [[Lección 2 - Cortes primarios]]
+- [[Lección 3 - Desplazamiento]]
+- [[Lección 4 - Spins de Sable]]
+- [[Lección 5 - Nociones de bloqueo]]
+- [[Lección 6 - Guardias y estrategia]]
+- [[Lección 7 - Introducción al combate]]
+- [[Lección 8 - Giros de cuerpo]]
 
 
 

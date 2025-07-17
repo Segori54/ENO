@@ -7,11 +7,10 @@
 ## Ejercicios de práctica - Cuadrado de Meyer
 
 
-![[cuadrado_meyer.png]]
+![[diagrama_meyer.png]]
 
 
-###  # Primera secuencia de coe
- te
+###  # Primera secuencia de corte
 
 Tratar como 1234
 
