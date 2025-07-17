@@ -23,7 +23,8 @@
         "videos": true,
         "pdfs": true,
         "otherTypes": false
-      }
+      },
+      "relay": "38d9d0f8-8397-40ae-a71b-64a92e90a8cb"
     }
   ],
   "enableUpdateYDocFromDiskBuffer": false,
