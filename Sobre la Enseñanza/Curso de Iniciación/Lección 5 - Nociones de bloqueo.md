@@ -1,6 +1,6 @@
 Es lo mismo que un "parry" y es lo mismo que una "parada". Se usa de forma intercambiable.
 
-Es tan simple como poner el fuerte contra el débil. Mantener una estructura favorable del cuerpong]]
+Es tan simple como poner el fuerte contra el débil. Mantener una estructura favorable del cupo.]]
 
 La defensa posee la misma importancia que el ataque. Su maestría hace la diferencia entre morir en el duelo, herirse mutuamente, o salir. Siempre bloquear como parte de un contraataque.
 
@@ -12,7 +12,6 @@ La defensa posee la misma importancia que el ataque. Su maestría hace la difere
 - **Soresu**
 
 - **Makashi**
-![[bloqueo_cab_maka.png|419x188]]
 - **Djem So**
 
 ## Bloqueo Alto
@@ -21,7 +20,7 @@ La defensa posee la misma importancia que el ataque. Su maestría hace la difere
 - **Makashi**
 ![[moqueo_sup_maka.png|359x177]]
 - **Djem So**
-![[bloqueo_superior.png|312x297]]
+![[bl.png|312x29iorg|297x200]]
 
 ## Bloqueo Medio
 

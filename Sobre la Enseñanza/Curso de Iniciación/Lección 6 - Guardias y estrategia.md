@@ -1,14 +1,24 @@
-### Guardia Frontal Alta
-Ox (Guardia del Buey)
+### Guardia Punta Alta
+- Soresu
+- Makashi
+- Djem So
 
 
-### Guardia media 
-Phlug (Guardia del Arado)
+### Guardia Media-Inicial
+- Soresu
+- Makashi
+- Djem So
 
-### Guardia baja
-Alber (Guardia del Tonto)
+### Guardia Baja
+- Soresu
+- Makashi
+- Djem So
 
-### Guardia alta
-Vom Tag Alto Centrado (Guardia del Cielo)
+### Guardia Alta
+- Soresu
+- Makashi
+- Djem So
+
+
 
 

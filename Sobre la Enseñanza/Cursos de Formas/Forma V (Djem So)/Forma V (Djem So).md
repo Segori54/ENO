@@ -5,7 +5,7 @@ Kunt des fechten. Lagschwer. Joachim Meyer Art Of Combat (2 Manos)
 
 <span style="background:#40a9ff">Anakin Skywalker</span>
 
-![Alt text|375x500][Anakin_Skywalker_RotS.png]
+![Djem So|375x500](Anakin_Skywalker_RotS.png)
 
 ## Requisitos
 Haber avanzado significativamente en la [[Forma III (Soresu)]] o en la [[Forma IV (Ataru)]] decidiendo usar esta disciplina, si uno lo desea puede quedarse en con su forma anterior.
