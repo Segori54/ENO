@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roles/Roles.md",
+                "file": "Diario de los 5 anillos/Anillo de Tierra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles"
+              "title": "Anillo de Tierra"
             }
           }
         ]
@@ -166,8 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdaec73cdeaa5ff0",
+  "active": "8bbe58c9b7a9040f",
   "lastOpenFiles": [
+    "Diario de los 5 anillos/Anillo de Agua.md",
+    "Roles/Roles.md",
+    "Diario de los 5 anillos/Anillo de Tierra.md",
+    "Diario de los 5 anillos",
+    "Diari",
     "Sobre el simulador/Sobre el simulador.md",
     "Sobre el simulador/Nivel 2 - Sable de Luz.md",
     "Sobre el simulador/Nivel 1 - Sable Casero.md",
@@ -195,7 +200,6 @@
     "Roles/Administrativos.md",
     "Roles/Lúdicos.md",
     "Roles/Acádemicos.md",
-    "Roles/Roles.md",
     "Fotos y diagramas/Spins",
     "Fotos y diagramas/ppt56AC.tmp",
     "Fotos y diagramas/~$creacion_diagramas.pptx",
@@ -208,11 +212,7 @@
     "Sobre el Combate",
     "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
     "Ejercicio 0 - Guardia inicial.md",
-    "Excalidraw/Drawing 2025-07-16 21.28.43.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-16 21.28.43_0.excalidraw.md",
     "Fotos y diagramas/creacion_diagramas.pptx",
-    "Curso de Iniciación.pdf",
-    "PDFs/Espada Basica - Daniel Cristi_033747.pdf",
-    "Roles"
+    "Curso de Iniciación.pdf"
   ]
 }
