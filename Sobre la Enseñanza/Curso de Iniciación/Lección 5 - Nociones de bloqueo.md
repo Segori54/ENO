@@ -12,14 +12,14 @@ La defensa posee la misma importancia que el ataque. Su maestría hace la difere
 - **Soresu**
 
 - **Makashi**
-![[image-1.png|419x188]]
+![[bloqueo_cab_maka.png|419x188]]
 - **Djem So**
 
 ## Bloqueo Alto
 - **Soresu** 
-![[image.png|315x218]]
+![[bloqueo_sup_soresu.png|315x218]]
 - **Makashi**
-![[image-2.png|359x177]]
+![[moqueo_sup_maka.png|359x177]]
 - **Djem So**
 ![[bloqueo_superior.png|312x297]]
 
