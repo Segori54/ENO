@@ -13,4 +13,4 @@ Para combates competitivos, el simulador se deberá utilizar junto a careta, pet
 
 ### Recomendaciones de bateria
 
-![[bateria 1.jpeg|521x868]]
+![[bateria.jpeg]]

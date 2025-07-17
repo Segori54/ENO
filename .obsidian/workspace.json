@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "218e4366504c3094",
+        "id": "eb1b5dc488defe19",
         "type": "tabs",
         "children": [
           {
-            "id": "f5038742839c3257",
+            "id": "bdaec73cdeaa5ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
+                "file": "Roles/Roles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lección 5 - Nociones de bloqueo"
+              "title": "Roles"
             }
           }
         ]
@@ -166,53 +166,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5038742839c3257",
+  "active": "bdaec73cdeaa5ff0",
   "lastOpenFiles": [
-    "image-2.png",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Guardia inicial.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Cortes primarios.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
-    "image-1.png",
-    "image.png",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+    "Sobre el simulador/Sobre el simulador.md",
+    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
+    "Sobre el simulador/Nivel 1 - Sable Casero.md",
+    "Fotos y diagramas/bateria 1.jpeg",
+    "Fotos y diagramas/bateria.jpeg",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
+    "Fotos y diagramas/Spins/image.png",
+    "Sobre la Enseñanza/Curso de Iniciación/Curso de Iniciación.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
+    "Fotos y diagramas/Bloqueos/moqueo_sup_maka.png",
+    "Fotos y diagramas/Bloqueos",
+    "Fotos y diagramas/Bloqueos/bloqueo_cab_maka.png",
+    "Fotos y diagramas/Bloqueos/bloqueo_sup_soresu.png",
+    "Fotos y diagramas/Spins/spin_basic_reverse_5.png",
+    "Fotos y diagramas/Spins/spin_basic_reverse_4.png",
+    "Fotos y diagramas/Spins/spin_basic_reverse_3.png",
+    "Fotos y diagramas/Spins/spin_basic_reverse_2.png",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Cortes primarios.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Guardia inicial.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Derechos y Deberes.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
+    "Sobre el Combate/Tipos de Combate.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
     "Roles/Administrativos.md",
     "Roles/Lúdicos.md",
     "Roles/Acádemicos.md",
     "Roles/Roles.md",
-    "Fotos y diagramas/Spins/image.png",
     "Fotos y diagramas/Spins",
-    "Fotos y diagramas/Spins/image-8.png",
-    "Fotos y diagramas/Spins/image-7.png",
-    "Fotos y diagramas/Spins/image-6.png",
-    "Fotos y diagramas/Spins/image-5.png",
-    "Fotos y diagramas/Spins/image-4.png",
-    "Fotos y diagramas/Spins/image-3.png",
-    "Fotos y diagramas/Spins/image-2.png",
     "Fotos y diagramas/ppt56AC.tmp",
     "Fotos y diagramas/~$creacion_diagramas.pptx",
     "Sobre la Enseñanza/Para los Instructores.md",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 8 - Giros de cuerpo.md",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Curso de Iniciación.md",
     "Excalidraw/Drawing 2025-07-16 21.45.12_0.excalidraw.md",
     "Excalidraw/Drawing 2025-07-16 21.45.12.excalidraw.md",
-    "Sobre el Combate/Tipos de Combate.md",
     "Excalidraw",
     "Sobre el Combate",
-    "Sobre el simulador/Nivel 1 - Sable Casero.md",
     "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
     "Ejercicio 0 - Guardia inicial.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
     "Excalidraw/Drawing 2025-07-16 21.28.43.excalidraw.md",
     "Excalidraw/Drawing 2025-07-16 21.28.43_0.excalidraw.md",
-    "Sobre el simulador/Sobre el simulador.md",
-    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
     "Fotos y diagramas/creacion_diagramas.pptx",
     "Curso de Iniciación.pdf",
     "PDFs/Espada Basica - Daniel Cristi_033747.pdf",
-    "Roles",
-    "Tutorial instalación/Tutorial instalación.pdf"
+    "Roles"
   ]
 }

@@ -2,23 +2,23 @@
 # Spin básico
 
 - Comenzar en guardia inicial
-![[image-3.png|251x203]]
+![[spin_basic_1.png|296x239]]
 - Enviar la hoja del sable por abajo de la mano
-![[image.png|287x204]]
+![[spin_basic_2.png|284x184]]
 - Tomar el sable entre dos dedos.
-![[image-1.png|282x183]]
+![[spin_basic_3.png|282x292]]
 - El sable volverá por arriba. Atrápalo y volverá a su posición original
-![[image-2.png|281x291]]
+![[spin_basic_1.png|296x239]]
 # Spin básico en reversa
 
 
 - Comenzar en guardia inicial
-![[image-4.png|332x241]]
+![[spin_basic_reverse_1.png|332x241]]
 - Enviar hoja del sable por arriba de la mano
-![[image-5.png|326x255]]
+![[spin_basic_reverse_2.png|326x255]]
 - Tomar el sable entre dos dedos
-![[image-6.png|320x240]]
+![[spin_basic_reverse_3.png|320x240]]
 - Atrapar el sable en supinación. Girar la muñeca.
-![[image-7.png|336x250]]
+![[spin_basic_reverse_4.png|336x250]]
 - El sable volverá por abajo a su posición original
-![[image-8.png|338x245]]
+![[spin_basic_reverse_5.png|338x245]]
