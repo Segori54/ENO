@@ -10,3 +10,7 @@ Para uso en combate amistoso, el sable deberá de utilizar el "Protector de espu
 Para combates avanzados con este simulador, solo se requiere de careta y guantes.
 
 Para combates competitivos, el simulador se deberá utilizar junto a careta, peto, guantes, protector inguinal, gorget (protector de cuello) y en lo posible, ropa con mangas largas (para evitar quemaduras por fricción)
+
+### Recomendaciones de bateria
+
+![[bateria 1.jpeg|521x868]]

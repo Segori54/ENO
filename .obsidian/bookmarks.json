@@ -14,6 +14,12 @@
           "type": "group",
           "ctime": 1750452740864,
           "items": [],
+          "title": "Tutorial instalación"
+        },
+        {
+          "type": "group",
+          "ctime": 1750452740864,
+          "items": [],
           "title": "Roles"
         },
         {
@@ -28,39 +34,14 @@
             },
             {
               "type": "group",
-              "ctime": 1736644735226,
-              "items": [
-                {
-                  "type": "file",
-                  "ctime": 1736644735227,
-                  "path": "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md",
-                  "subpath": "#^-"
-                },
-                {
-                  "type": "group",
-                  "ctime": 1736644735226,
-                  "items": [],
-                  "title": "Forma III (Soresu)"
-                },
-                {
-                  "type": "group",
-                  "ctime": 1736644735226,
-                  "items": [],
-                  "title": "Forma V (Djem So)"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1736644735227,
-                  "path": "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
-                  "subpath": "#^-"
-                }
-              ],
-              "title": "Cursos de Formas"
-            },
-            {
-              "type": "group",
               "ctime": 1749567907263,
               "items": [
+                {
+                  "type": "file",
+                  "ctime": 1749567907264,
+                  "path": "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
+                  "subpath": "#^-"
+                },
                 {
                   "type": "file",
                   "ctime": 1749567907263,
@@ -114,26 +95,45 @@
                   "ctime": 1749567907264,
                   "path": "Sobre la Enseñanza/Curso de Iniciación/Curso de Iniciación.md",
                   "subpath": "#^-"
-                },
-                {
-                  "type": "file",
-                  "ctime": 1749567907264,
-                  "path": "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
-                  "subpath": "#^-"
                 }
               ],
               "title": "Curso de Iniciación"
             },
             {
-              "type": "file",
-              "ctime": 1749567935441,
-              "path": "Sobre la Enseñanza/Para los Instructores.md",
-              "subpath": "#^-"
+              "type": "group",
+              "ctime": 1736644735226,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1736644735227,
+                  "path": "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1736644735226,
+                  "items": [],
+                  "title": "Forma III (Soresu)"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1736644735226,
+                  "items": [],
+                  "title": "Forma V (Djem So)"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1736644735227,
+                  "path": "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Cursos de Formas"
             },
             {
               "type": "file",
               "ctime": 1749567935441,
-              "path": "Sobre la Enseñanza/Tipos de Combate.md",
+              "path": "Sobre la Enseñanza/Para los Instructores.md",
               "subpath": "#^-"
             }
           ],
@@ -144,6 +144,12 @@
           "ctime": 1736017430251,
           "items": [],
           "title": "Sobre el simulador"
+        },
+        {
+          "type": "group",
+          "ctime": 1752716662778,
+          "items": [],
+          "title": "Sobre el Combate"
         },
         {
           "type": "group",
@@ -165,21 +171,15 @@
         },
         {
           "type": "group",
-          "ctime": 1750452740864,
+          "ctime": 1750452986956,
           "items": [],
-          "title": "Tutorial instalación"
+          "title": "Logo"
         },
         {
           "type": "group",
           "ctime": 1750452740864,
           "items": [],
           "title": "PDFs"
-        },
-        {
-          "type": "group",
-          "ctime": 1750452986956,
-          "items": [],
-          "title": "Logo"
         },
         {
           "type": "file",
