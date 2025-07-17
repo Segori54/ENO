@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roles/Roles.md",
+                "file": "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma V (Djem So).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles"
+              "title": "Forma V (Djem So)"
+            }
+          },
+          {
+            "id": "5eabb5c1b04b4d04",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Fotos y diagramas/Bloqueos/bloq_medio_djem.png"
+              },
+              "icon": "lucide-image",
+              "title": "bloq_medio_djem"
+            }
+          },
+          {
+            "id": "45044e63ccd97e95",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Fotos y diagramas/Bloqueos/bloq_cab_djem.png"
+              },
+              "icon": "lucide-image",
+              "title": "bloq_cab_djem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,50 +191,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdaec73cdeaa5ff0",
+  "active": "5eabb5c1b04b4d04",
   "lastOpenFiles": [
+    "Fotos y diagramas/Bloqueos/bloq_cab_djem.png",
+    "Fotos y diagramas/Bloqueos/bloq_medio_djem.png",
+    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma V (Djem So).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma III (Soresu).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma VI (Jar Kai).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 8 - Giros de cuerpo.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Cortes primarios.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Guardia inicial.md",
+    "Sobre la Enseñanza/Para los Instructores.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md",
+    "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Curso de Iniciación.md",
+    "Roles/Roles.md",
     "Sobre el simulador/Sobre el simulador.md",
     "Sobre el simulador/Nivel 2 - Sable de Luz.md",
     "Sobre el simulador/Nivel 1 - Sable Casero.md",
     "Fotos y diagramas/bateria 1.jpeg",
     "Fotos y diagramas/bateria.jpeg",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
     "Fotos y diagramas/Spins/image.png",
-    "Sobre la Enseñanza/Curso de Iniciación/Curso de Iniciación.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
     "Fotos y diagramas/Bloqueos/moqueo_sup_maka.png",
     "Fotos y diagramas/Bloqueos",
     "Fotos y diagramas/Bloqueos/bloqueo_cab_maka.png",
     "Fotos y diagramas/Bloqueos/bloqueo_sup_soresu.png",
     "Fotos y diagramas/Spins/spin_basic_reverse_5.png",
     "Fotos y diagramas/Spins/spin_basic_reverse_4.png",
-    "Fotos y diagramas/Spins/spin_basic_reverse_3.png",
-    "Fotos y diagramas/Spins/spin_basic_reverse_2.png",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Cortes primarios.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Guardia inicial.md",
     "Sobre la Enseñanza/Curso de Iniciación/Derechos y Deberes.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
     "Sobre el Combate/Tipos de Combate.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
     "Roles/Administrativos.md",
     "Roles/Lúdicos.md",
-    "Roles/Acádemicos.md",
-    "Roles/Roles.md",
     "Fotos y diagramas/Spins",
     "Fotos y diagramas/ppt56AC.tmp",
     "Fotos y diagramas/~$creacion_diagramas.pptx",
-    "Sobre la Enseñanza/Para los Instructores.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 8 - Giros de cuerpo.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
-    "Excalidraw/Drawing 2025-07-16 21.45.12_0.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-16 21.45.12.excalidraw.md",
     "Excalidraw",
     "Sobre el Combate",
-    "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
-    "Ejercicio 0 - Guardia inicial.md",
-    "Excalidraw/Drawing 2025-07-16 21.28.43.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-16 21.28.43_0.excalidraw.md",
     "Fotos y diagramas/creacion_diagramas.pptx",
     "Curso de Iniciación.pdf",
     "PDFs/Espada Basica - Daniel Cristi_033747.pdf",
