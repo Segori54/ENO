@@ -18,6 +18,3 @@
 - Soresu
 - Makashi
 - Djem So
-
-
-

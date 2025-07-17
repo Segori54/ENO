@@ -1,6 +1,6 @@
 Es lo mismo que un "parry" y es lo mismo que una "parada". Se usa de forma intercambiable.
 
-Es tan simple como poner el fuerte contra el débil. Mantener una estructura favorable del cuerpong]]
+Es tan simple como poner el fuerte contra el débil. Mantener una estructura favorable del cupo.]]
 
 La defensa posee la misma importancia que el ataque. Su maestría hace la diferencia entre morir en el duelo, herirse mutuamente, o salir. Siempre bloquear como parte de un contraataque.
 
