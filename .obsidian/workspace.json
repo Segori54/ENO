@@ -4,50 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "eb1b5dc488defe19",
+        "id": "53a63b6fa83f3399",
         "type": "tabs",
         "children": [
           {
-            "id": "bdaec73cdeaa5ff0",
+            "id": "de3f1019ba798ba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
 
-                "file": "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma V (Djem So).md",
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forma V (Djem So)"
-            }
-          },
-          {
-            "id": "5eabb5c1b04b4d04",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Fotos y diagramas/Bloqueos/bloq_medio_djem.png"
-              },
-              "icon": "lucide-image",
-              "title": "bloq_medio_djem"
-            }
-          },
-          {
-            "id": "45044e63ccd97e95",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Fotos y diagramas/Bloqueos/bloq_cab_djem.png"
-              },
-              "icon": "lucide-image",
-              "title": "bloq_cab_djem"
+              "title": "Lección 6 - Guardias y estrategia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Forma V (Djem So)"
+              "title": "Backlinks for Lección 6 - Guardias y estrategia"
             }
           },
           {
@@ -139,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md",
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Forma V (Djem So)"
+              "title": "Outgoing links from Lección 6 - Guardias y estrategia"
             }
           },
           {
@@ -154,10 +130,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -166,13 +144,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre la Enseñanza/Formas/Forma V (Djem So).md"
+                "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Forma V (Djem So)"
+              "title": "Outline of Lección 6 - Guardias y estrategia"
+            }
+          },
+          {
+            "id": "90f9f33c04ec82fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,61 +177,67 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "custom-sort:Toggle custom sorting": false,
-      "system3-relay:Relay": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5eabb5c1b04b4d04",
+  "active": "de3f1019ba798ba2",
   "lastOpenFiles": [
-    "Fotos y diagramas/Bloqueos/bloq_cab_djem.png",
-    "Fotos y diagramas/Bloqueos/bloq_medio_djem.png",
-    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma V (Djem So).md",
-    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma III (Soresu).md",
-    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma VI (Jar Kai).md",
-    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 8 - Giros de cuerpo.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 5 - Nociones de bloqueo.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 2 - Cortes primarios.md",
     "Sobre la Enseñanza/Curso de Iniciación/Lección 1 - Guardia inicial.md",
-    "Sobre la Enseñanza/Para los Instructores.md",
     "Sobre la Enseñanza/Curso de Iniciación/Registro de Progreso.md",
-    "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md",
-    "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
-    "Sobre la Enseñanza/Curso de Iniciación/Curso de Iniciación.md",
-    "Roles/Roles.md",
-    "Sobre el simulador/Sobre el simulador.md",
-    "Sobre el simulador/Nivel 2 - Sable de Luz.md",
-    "Sobre el simulador/Nivel 1 - Sable Casero.md",
-    "Fotos y diagramas/bateria 1.jpeg",
-    "Fotos y diagramas/bateria.jpeg",
-    "Fotos y diagramas/Spins/image.png",
-    "Fotos y diagramas/Bloqueos/moqueo_sup_maka.png",
-    "Fotos y diagramas/Bloqueos",
-    "Fotos y diagramas/Bloqueos/bloqueo_cab_maka.png",
-    "Fotos y diagramas/Bloqueos/bloqueo_sup_soresu.png",
-    "Fotos y diagramas/Spins/spin_basic_reverse_5.png",
-    "Fotos y diagramas/Spins/spin_basic_reverse_4.png",
-    "Sobre la Enseñanza/Curso de Iniciación/Derechos y Deberes.md",
-    "Sobre el Combate/Tipos de Combate.md",
-    "Roles/Administrativos.md",
+    "Sobre la Enseñanza/Para los Instructores.md",
     "Roles/Lúdicos.md",
-    "Fotos y diagramas/Spins",
-    "Fotos y diagramas/ppt56AC.tmp",
-    "Fotos y diagramas/~$creacion_diagramas.pptx",
-    "Excalidraw",
-    "Sobre el Combate",
-    "Fotos y diagramas/creacion_diagramas.pptx",
-    "Curso de Iniciación.pdf"
+    "Roles/Administrativos.md",
+    "Roles/Acádemicos.md",
+    "Roles/Roles.md",
+    "Tutorial instalación/Tutorial instalación.md",
+    "Tutorial instalación/Tutorial instalación.pdf",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 8 - Giros de cuerpo.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 7 - Introducción al combate.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 4 - Spins de Sable.md",
+    "Sobre la Enseñanza/Curso de Iniciación/Lección 3 - Desplazamiento.md",
+    "Fotos y diagramas/image-1.png",
+    "Fotos y diagramas/Adobe Photoshop 2025.lnk",
+    "Fotos y diagramas/Adobe Illustrator 2025.lnk",
+    "Sobre la Enseñanza/Cursos de Formas/Cursos de Formas.md",
+    "Fotos y diagramas/image.png",
+    "Notas Chechin/Anillo de Tierra.md",
+    "Notas Chechin/Anillo de Agua.md",
+    "Notas Chechin",
+    "Untitled",
+    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma V (Djem So).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma III (Soresu).md",
+    "Untitled.canvas",
+    "Sobre la Enseñanza/Cursos de Formas/Forma III (Soresu)/Forma VI (Jar Kai).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md",
+    "Sobre la Enseñanza/Cursos de Formas/Forma V (Djem So)/Forma VII (Juyo o Vapad).md",
+    "Fotos y diagramas/Desplazamientos/paso_simple.png",
+    "Fotos y diagramas/Desplazamientos/paso_largo.png",
+    "Fotos y diagramas/Desplazamientos",
+    "Fotos y diagramas/Movimiento/paso_simple.png",
+    "Fotos y diagramas/Movimiento/paso_largo.png",
+    "Fotos y diagramas/bateria.jpeg",
+
+    "Fotos y diagramas/Movimiento",
+    "Fotos y diagramas/Untitled",
+    "Fotos y diagramas/Cortes/diagrama_meyer.png",
+    "Fotos y diagramas/diagrama_meyer.png",
+    "Fotos y diagramas/Cortes/cortes_primarios.png",
+    "Fotos y diagramas/Cortes",
+    "Fotos y diagramas/Cortes7",
+    "PDFs/PDFs.md",
+    "Untitled.md"
+
   ]
 }

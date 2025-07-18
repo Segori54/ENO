@@ -3,10 +3,16 @@
 - Makashi
 - Djem So
 
-
 ### Guardia Media-Inicial
 - Soresu
+
+![[image.png]]
+
+
 - Makashi
+
+
+
 - Djem So
 
 ### Guardia Baja

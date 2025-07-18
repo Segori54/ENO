@@ -5,7 +5,7 @@ Niten Ichi Ryu
 
 #### Maestro Notable en Star Wars
 
-<font color="#000000"><span style="background:rgba(0, 235, 0, 0.2)"><span style="background:rgba(3, 135, 102, 0.2)"><span style="background:rgba(0, 235, 0, 0.2)">Cal Kestis</span></span></span></font>
+<font color="#0000Jar Kain style=(background:rgba(0, 235) 0, 0.2)"><span style="background:rgba(3, 135, 102, 0.2)"><span style="background:rgba(0, 235, 0, 0.2)">Cal Kestis</span></span></span></font>
 
 ![Jar Kai|400x500](calkestisdualwield.png)
 

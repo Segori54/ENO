@@ -1,6 +1,6 @@
-## Instructores
+### Instructores
 
 
-## Alumnos
+### Alumnos
 
-## Escribas
+### Escribas

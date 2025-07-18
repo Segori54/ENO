@@ -1,4 +1,10 @@
 {
   "alwaysUpdateLinks": true,
-  "livePreview": false
+  "attachmentFolderPath": "Fotos y diagramas",
+  "uriCallbacks": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "vimMode": false
+
 }

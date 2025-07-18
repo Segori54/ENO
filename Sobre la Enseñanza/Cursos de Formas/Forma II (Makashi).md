@@ -4,6 +4,9 @@ Sable Militar Británico de Alfred Hutton. Cold Steel
 #### Maestro Notable en Star Wars
 <span style="background:#ff4d4f"><font color="#000000">Conde Dooku</font></span>
 
+
+<span style="background:#ff4d4f"><font color="#000000">Conde Dooku</font></span>
+
 ![Makashi|350x500](dooku.jpg)
 
 ## Requisitos

@@ -191,7 +191,56 @@
         {
           "type": "group",
           "ctime": 1736017430251,
-          "items": [],
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1752790844286,
+              "items": [],
+              "title": "Guardias"
+            },
+            {
+              "type": "group",
+              "ctime": 1752790844286,
+              "items": [],
+              "title": "Cortes"
+            },
+            {
+              "type": "group",
+              "ctime": 1752790844286,
+              "items": [],
+              "title": "Desplazamientos"
+            },
+            {
+              "type": "group",
+              "ctime": 1752790844286,
+              "items": [],
+              "title": "Spins"
+            },
+            {
+              "type": "group",
+              "ctime": 1752790844286,
+              "items": [],
+              "title": "Bloqueos"
+            },
+            {
+              "type": "group",
+              "ctime": 1752790844286,
+              "items": [],
+              "title": "Maestros"
+            },
+            {
+              "type": "file",
+              "ctime": 1752790844286,
+              "path": "Fotos y diagramas/bateria.jpeg",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1752790844286,
+              "path": "Fotos y diagramas/creacion_diagramas.pptx",
+              "subpath": "#^-"
+            }
+          ],
           "title": "Fotos y diagramas"
         },
         {
@@ -211,6 +260,25 @@
           "ctime": 1736017430251,
           "path": "README.md",
           "subpath": "#^-"
+        },
+        {
+          "type": "group",
+          "ctime": 1752793840986,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1752793840986,
+              "path": "Notas Chechin/Anillo de Tierra.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1752793840986,
+              "path": "Notas Chechin/Anillo de Agua.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Notas Chechin"
         }
       ],
       "title": "sortspec"
