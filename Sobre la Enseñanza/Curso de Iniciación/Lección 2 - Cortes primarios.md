@@ -10,7 +10,7 @@
 ![[diagrama_meyer.png]]
 
 
-###  # Primera secuencia de corte
+#### Primera secuencia de corte
 
 Tratar como 1234
 

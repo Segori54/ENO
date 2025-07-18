@@ -1,1 +1,24 @@
-{}
+{
+  "Sobre la Enseñanza/Cursos de Formas/Forma II (Makashi).md": {
+    "6ae0a6c91db55920e1e72dacfd808145": {
+      "position": "left",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  },
+  "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md": {
+    "15feea9e85c4af6609f5490ea05fe2d1": {
+      "position": "left",
+      "width": "207px",
+      "height": "221px",
+      "wrap": true
+    },
+    "4b0b8a37341bc87fb99ff0621b133140": {
+      "position": "left",
+      "width": "83px",
+      "height": "213px",
+      "wrap": true
+    }
+  }
+}

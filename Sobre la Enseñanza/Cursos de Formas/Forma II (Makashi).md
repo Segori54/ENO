@@ -3,9 +3,8 @@ Sable Militar Británico de Alfred Hutton. Cold Steel
 
 #### Maestros Notable en Star Wars
 
-<span style="background:#ff4d4f"><font color="#000000">Conde Dooku </font></span>
-
-![![Alt text|350x500](dooku.jpg)
+<span style="background:#ff4d4f"><font color="#000000">Conde Dooku</font></span>
+![Makashi|350x500](dooku.jpg)
 
 ## Requisitos
 Haber terminado [[Curso de Iniciación]], una vez terminado se pasara al [[Nivel 2 - Sable de Luz]], pudiendo optar por la [[Forma I (Shii-Cho)]] o [[Forma II (Makashi)]].
