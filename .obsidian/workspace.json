@@ -13,7 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
+
                 "file": "Sobre la Enseñanza/Curso de Iniciación/Lección 6 - Guardias y estrategia.md",
+
                 "mode": "source",
                 "source": false
               },
@@ -226,6 +228,7 @@
     "Fotos y diagramas/Movimiento/paso_simple.png",
     "Fotos y diagramas/Movimiento/paso_largo.png",
     "Fotos y diagramas/bateria.jpeg",
+
     "Fotos y diagramas/Movimiento",
     "Fotos y diagramas/Untitled",
     "Fotos y diagramas/Cortes/diagrama_meyer.png",
@@ -235,5 +238,6 @@
     "Fotos y diagramas/Cortes7",
     "PDFs/PDFs.md",
     "Untitled.md"
+
   ]
 }

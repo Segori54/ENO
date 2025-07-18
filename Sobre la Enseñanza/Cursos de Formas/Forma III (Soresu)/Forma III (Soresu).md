@@ -19,3 +19,4 @@ La principal base del Soresu es el "Principio ataque y defensa en uno", el cual 
 - Tamaño Hoja 70 cm aproximadamente
 - Tamaño total 100 cm o 1 metro
 
+

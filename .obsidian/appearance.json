@@ -1,7 +1,9 @@
 {
+
   "cssTheme": "Cyber Glow",
   "theme": "obsidian",
   "nativeMenus": true,
   "baseFontSizeAction": true,
   "baseFontSize": 16
+
 }

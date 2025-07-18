@@ -5,6 +5,31 @@
       "ctime": 1736017400980,
       "items": [
         {
+          "type": "group",
+          "ctime": 1752724212105,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1752724216028,
+              "path": "Diario de los 5 anillos/Anillo de Agua.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1752724216028,
+              "path": "Diario de los 5 anillos/Anillo de Tierra.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1752724216028,
+              "path": "Diario de los 5 anillos/Anillo de Agua.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Diario de los 5 anillos"
+        },
+        {
           "type": "file",
           "ctime": 1736017430251,
           "path": "Esgrima Nueva Orden.md",
